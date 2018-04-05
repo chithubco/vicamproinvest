@@ -1,8 +1,8 @@
 	function initialize() {
 	var mapOptions = {
-		zoom: 8,
+		zoom: 16,
 		scrollwheel: false,
-		center: new google.maps.LatLng(36.028012, -86.860668)
+		center: new google.maps.LatLng(9.0513933, 7.4394093)
 	};
 	var map = new google.maps.Map(document.getElementById('contact-map'),
 		  mapOptions);
